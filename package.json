@@ -1,0 +1,25 @@
+{
+  "name": "sample",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "npm start"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+},
+{
+  "name": "sample",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
+}
